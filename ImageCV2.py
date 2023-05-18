@@ -2,7 +2,7 @@ from __future__ import print_function
 import cv2
 
 # image path
-image_path = "C:\\Users\ISND89\Documents\ISND\IA\Horimiya.jpg"
+image_path = "C:\\Users\\jerry\\ImgPrueba\\YourMori.png"
 
 # Read or load image from its path
 image = cv2.imread(image_path)
@@ -19,7 +19,7 @@ cv2.imshow("My Image", image)
 
 
 # image path
-image_path = "C:\\Users\ISND89\Documents\ISND\IA\Horimiya.jpg"
+image_path = "C:\\Users\\jerry\\ImgPrueba\\YourMori.png"
 
 # Read or load image from its path
 image = cv2.imread(image_path)
@@ -40,7 +40,7 @@ cv2.imshow("Modified Image", image)
 
 
 # image path
-image_path = "C:\\Users\ISND89\Documents\ISND\IA\Horimiya.jpg"
+image_path = "C:\\Users\\jerry\\ImgPrueba\\YourMori.png"
 
 # Read or load image from its path
 image = cv2.imread(image_path)
@@ -65,7 +65,7 @@ cv2.imshow("Rectangle", image)
 
 
 # Load image
-image_path = "C:\\Users\ISND89\Documents\ISND\IA\Horimiya.jpg"
+image_path = "C:\\Users\\jerry\\ImgPrueba\\YourMori.png"
 image = cv2.imread(image_path)
 (h,w) = image.shape[:2]
 

@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 # Leer una imagen
-img = cv2.imread('C:\\Users\ISND89\Documents\ISND\IA\objetos.jpg', 1)
+img = cv2.imread('C:\\Users\\jerry\\ImgPrueba\\Saruei.jpg', 1)
 
 # Mostrar imagen
 cv2.imshow('Objetos', img)
